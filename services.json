@@ -1,7 +1,7 @@
 [
          {
             "name":"000Webhost",
-            "deleteurl":"https:\/\/000webhost.com\/members\/profile",
+            "deleteurl":"https://000webhost.com/members/profile",
             "difficulty":"easy",
             "description":"Go to \"Profile > Delete My Account\" and select why you are deleting your account.",
             "domain":"000webhost.com,000webhostapp.com,",
