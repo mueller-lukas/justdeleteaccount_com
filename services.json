@@ -9,7 +9,7 @@
          },
          {
             "name":"1Password",
-            "deleteurl":"https:\/\/my.1password.com\/profile",
+            "deleteurl":"https://my.1password.com/profile",
             "difficulty":"easy",
             "description":"Login to your account, go to profile, click 'Permanently Delete Account'. Confirm by entering 'I am sure' and click 'Delete Account'.",
             "domain":"1password.com,",
