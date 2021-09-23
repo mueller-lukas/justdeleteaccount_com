@@ -34,5 +34,5 @@ The file is in the JSON format.
 If exists use `"Content"`, else `"deletemail":null,` and/or `"deleteurl":null,`
 
 # How long until a change takes effect?
-After you created a pull request one member of our team will review it.
+After you created a pull request one member of our team will review it.  
 After the change is added to the master branch, it will be automatically used by the website and the api within 24h.
