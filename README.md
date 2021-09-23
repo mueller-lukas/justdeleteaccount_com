@@ -17,11 +17,11 @@ The file is in the JSON format.
 ```json
          {
             "name":"SomeServiceName",
-            "deleteurl":"https:\/\/somewebsite.com\/delete\/account",
+            "deleteurl":"https://somewebsite.com/profile/account",
             "deletemail":"support@somewebsite.com",
             "difficulty":"easy",
-            "description":"Go to \"Profile > Delete My Account\" and select why you are deleting your account.",
-            "domain":"somewebsite.com,domain2.com,"
+            "description":"Go to 'Profile > Delete My Account' and select why you are deleting your account.",
+            "domain":"somewebsite.com,domain2.com"
          },
 ```
 **Difficulty:**  
