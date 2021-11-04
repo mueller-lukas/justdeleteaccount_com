@@ -2216,8 +2216,8 @@
             "name":"Google",
             "deleteurl":"https:\/\/security.google.com\/settings\/security\/deleteaccount",
             "difficulty":"easy",
-            "description":null,
-            "domain":"google.com,google.co.uk,",
+            "description":"Click on the link, then enter your password and follow the instructions on the page.",
+            "domain":"google.com,google.co.uk,google.de,google.fr",
             "deletemail":null
          },
          {
