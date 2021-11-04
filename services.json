@@ -1642,7 +1642,7 @@
             "difficulty":"medium",
             "description":"Login to your account, go to your account settings, scroll down to the bottom of the page, click 'REQUEST ACCOUNT DELETE'. An 'Enter Security Code' pop-up window displays. Enter the security code sent to your email address and then click 'CONFIRM DELETE REQUEST'. You will be prompt to select a reason why do you want to delete your account, but you can skip this step. Finally, you click 'LOGOUT'. 'Your account will be permanently deleted in 14 days.'",
             "domain":"epicgames.com",
-	   "deletemail":null
+	    "deletemail":null
          },
          {
             "name":"eProject.me",
@@ -2562,7 +2562,7 @@
             "difficulty":"easy",
             "description":"Login to your account, go to your profile, click on the red 'Confirm' button, enter your password and click 'Delete Permanently'.",
             "domain":"hybrid-analysis.com",
-	   "deletemail":null
+	    "deletemail":null
          },
          {
             "name":"ICQ",
@@ -3506,7 +3506,7 @@
             "difficulty":"impossible",
             "description":"Minecraft Tools does not provide an automatic way to delete your account and you might not be able to delete it by contacting the support team either.",
             "domain":"minecraft.tools",
-	   "deletemail":"contact@minecraft.tools"
+	    "deletemail":"contact@minecraft.tools"
          },
          {
             "name":"Mint",
@@ -3914,7 +3914,7 @@
             "difficulty":"easy",
             "description":"Login to your account, go to your account settings, click 'Delete your account', enter your password, click 'Confirm password to continue'. Type your username and click 'Delete this account'.",
             "domain":"npmjs.com",
-	   "deletemail":null
+	    "deletemail":null
          },
          {
             "name":"NPM Forum",
@@ -4042,7 +4042,7 @@
             "difficulty":"hard",
             "description":"You need to contact their support team and make an account deletion request. 'Please note that this is currently a manual process and may take several days to complete (contact us to file a request).'",
             "domain":"osu.ppy.sh,ppy.sh",
-	   "deletemail":"privacy@ppy.sh"
+	    "deletemail":"privacy@ppy.sh"
          },
          {
             "name":"Outdooractive",
@@ -5802,7 +5802,7 @@
             "difficulty":"easy",
             "description":"Login to your account, go to your account settings, scroll down until you see the 'Delete account' button, click it, enter your password and click 'Delete'.",
             "domain":"virustotal.com",
-	   "deletemail":null
+	    "deletemail":null
          },
          {
             "name":"Viva o Linux (VOL)",
