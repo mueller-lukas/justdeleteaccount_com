@@ -6158,11 +6158,11 @@
          },
          {
             "name":"Zeit Online",
-            "deleteurl":"http:\/\/community.zeit.de\/hilfe\/meinen-account-loeschen",
+            "deleteurl":"https://www.zeit.de/hilfe/hilfe",
             "difficulty":"hard",
-            "description":"Send an Email with the Username",
+            "description":"Contact the Zeit.de Team by email and request a deletion of your account.",
             "domain":"zeit.de,",
-            "deletemail":"community@zeit.de"
+            "deletemail":"kontakt@zeit.de"
          },
          {
             "name":"Zendesk",
