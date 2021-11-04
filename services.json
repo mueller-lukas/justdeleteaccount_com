@@ -1638,11 +1638,11 @@
          },
          {
             "name":"Epic Games",
-            "deleteurl":"https:\/\/epicgames.helpshift.com\/a\/epic-accounts\/?s=epic-account-support&f=how-can-i-disable-my-epic-account&l=en&contact=1",
-            "difficulty":"hard",
-            "description":"Select 'Delete Epic Games Account' from the dropdown in the contact page and submit a request. Support will respond to you in about 5 days asking for confirmation",
-            "domain":"epicgames.com,",
-            "deletemail":null
+            "deleteurl":"https:\/\/www.epicgames.com\/account",
+            "difficulty":"medium",
+            "description":"Login to your account, go to your account settings, scroll down to the bottom of the page, click 'REQUEST ACCOUNT DELETE'. An 'Enter Security Code' pop-up window displays. Enter the security code sent to your email address and then click 'CONFIRM DELETE REQUEST'. You will be prompt to select a reason why do you want to delete your account, but you can skip this step. Finally, you click 'LOGOUT'. 'Your account will be permanently deleted in 14 days.'",
+            "domain":"epicgames.com",
+	    "deletemail":null
          },
          {
             "name":"eProject.me",
@@ -2555,6 +2555,14 @@
             "description":"You must <a href=\"https:\/\/support.humblebundle.com\/hc\/en-us\/requests\/new\">contact Humble Bundle via their online contact form<\/a> to request account deletion and provide three or more transaction IDs from previous orders. They only deactivate your account though and state you can get back at any time.",
             "domain":"humblebundle.com,",
             "deletemail":null
+         },
+         {
+            "name":"Hybrid Analysis",
+            "deleteurl":"https:\/\/www.hybrid-analysis.com\/my-account",
+            "difficulty":"easy",
+            "description":"Login to your account, go to your profile, click on the red 'Confirm' button, enter your password and click 'Delete Permanently'.",
+            "domain":"hybrid-analysis.com",
+	    "deletemail":null
          },
          {
             "name":"ICQ",
@@ -3493,6 +3501,14 @@
             "deletemail":null
          },
          {
+            "name":"Minecraft Tools",
+            "deleteurl":null,
+            "difficulty":"impossible",
+            "description":"Minecraft Tools does not provide an automatic way to delete your account and you might not be able to delete it by contacting the support team either.",
+            "domain":"minecraft.tools",
+	    "deletemail":"contact@minecraft.tools"
+         },
+         {
             "name":"Mint",
             "deleteurl":"https:\/\/mint.com",
             "difficulty":"easy",
@@ -3893,6 +3909,14 @@
             "deletemail":null
          },
          {
+            "name":"npm",
+            "deleteurl":null,
+            "difficulty":"easy",
+            "description":"Login to your account, go to your account settings, click 'Delete your account', enter your password, click 'Confirm password to continue'. Type your username and click 'Delete this account'.",
+            "domain":"npmjs.com",
+	    "deletemail":null
+         },
+         {
             "name":"NPM Forum",
             "deleteurl":"https:\/\/npm.community",
             "difficulty":"easy",
@@ -4013,12 +4037,12 @@
             "deletemail":"support@rsbuddy.com"
          },
          {
-            "name":"Osu!",
-            "deleteurl":"https:\/\/osu.ppy.sh\/help\/wiki\/Help_Center",
-            "difficulty":"impossible",
-            "description":null,
-            "domain":"osu.ppy.sh,",
-            "deletemail":null
+            "name":"osu!",
+            "deleteurl":"https:\/\/osu.ppy.sh\/wiki\/en\/Help_Centre\/Account#can-i-delete-my-account?",
+            "difficulty":"hard",
+            "description":"You need to contact their support team and make an account deletion request. 'Please note that this is currently a manual process and may take several days to complete (contact us to file a request).'",
+            "domain":"osu.ppy.sh,ppy.sh",
+	    "deletemail":"privacy@ppy.sh"
          },
          {
             "name":"Outdooractive",
@@ -5771,6 +5795,14 @@
             "description":"Log in to your account and contact the customer support using the contact form and request the deletion of your account.",
             "domain":"virtualmaster.com,",
             "deletemail":null
+         },
+         {
+            "name":"VirusTotal",
+            "deleteurl":"https:\/\/www.virustotal.com\/gui\/settings",
+            "difficulty":"easy",
+            "description":"Login to your account, go to your account settings, scroll down until you see the 'Delete account' button, click it, enter your password and click 'Delete'.",
+            "domain":"virustotal.com",
+	    "deletemail":null
          },
          {
             "name":"Viva o Linux (VOL)",
