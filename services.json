@@ -3877,6 +3877,14 @@
             "deletemail":null
          },
          {
+            "name":"noez.de",
+            "deleteurl":"https:\/\/nas.noez.de\/submitticket.php",
+            "difficulty":"hard",
+            "description":"You need to create a support ticket at the given link and ask for deletion of your account.",
+            "domain":"noez.de,",
+            "deletemail":null
+         },
+         {
             "name":"NoIP",
             "deleteurl":"https:\/\/www.noip.com\/members\/account\/delete.php",
             "difficulty":"easy",
