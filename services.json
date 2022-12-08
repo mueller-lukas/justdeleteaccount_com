@@ -6235,5 +6235,13 @@
             "description":"Click on the Link, log in, press 'Help', select 'Send us a message', select 'Account Deletion' and complete the workflow for account deletion.",
             "domain":"beta.openai.com",
             "deletemail":"deletion@openai.com"
+         },
+	 {
+            "name":"Triage",
+            "deleteurl":"https://tria.ge/account",
+            "difficulty":"easy",
+            "description":"Click on the Link, log in, press on the account icon, and confirm your password.",
+            "domain":"tria.ge",
+            "deletemail":null
          }
 ]
