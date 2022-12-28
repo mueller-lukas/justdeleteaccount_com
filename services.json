@@ -6245,6 +6245,14 @@
             "deletemail":null
          },
 	 {
+            "name":"Copy.AI",
+            "deleteurl":"https://copy.ai",
+            "difficulty":"hard",
+            "description":"You have to send an email to the support team for them to delete your account.",
+            "domain":"tria.ge",
+            "deletemail":"help@copy.ai"
+         },
+	 {
             "name":"Typefully",
             "deleteurl":"https://typefully.com",
             "difficulty":"impossible",
