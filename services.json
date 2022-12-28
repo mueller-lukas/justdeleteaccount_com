@@ -6243,5 +6243,13 @@
             "description":"Click on the Link, log in, press on the account icon, and confirm your password.",
             "domain":"tria.ge",
             "deletemail":null
+         },
+	 {
+            "name":"Typefully",
+            "deleteurl":"https://typefully.com",
+            "difficulty":"impossible",
+            "description":"You cannot delete your Typefully account.",
+            "domain":"typefully.com",
+            "deletemail":null
          }
 ]
