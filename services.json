@@ -6251,5 +6251,13 @@
             "description":"You have to send an email to the support team for them to delete your account.",
             "domain":"tria.ge",
             "deletemail":"help@copy.ai"
+         },
+	 {
+            "name":"Typefully",
+            "deleteurl":"https://typefully.com",
+            "difficulty":"impossible",
+            "description":"You cannot delete your Typefully account.",
+            "domain":"typefully.com",
+            "deletemail":null
          }
 ]
