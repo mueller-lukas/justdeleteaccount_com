@@ -1661,6 +1661,14 @@
             "deletemail":null
          },
          {
+            "name":"ESEA",
+            "deleteurl":"https:\/\/play.esea.net\/index.php?s=upanel&d=manage&tab=privacy",
+            "difficulty":"medium",
+            "description":"Click on the link and log in. On the privacy tab you can start the account deletion process. Click the button, enter your password, open the link in the confirmation email and enter your password again. Account will be deleted in 7 days.",
+            "domain":"esea.net,",
+            "deletemail":"privacy@esportsea.com"
+         },
+         {
             "name":"ESPN",
             "deleteurl":"https:\/\/www.espn.com",
             "difficulty":"easy",
@@ -3099,6 +3107,14 @@
             "description":"Go to the Settings page of your account, then account information and click “Close account”.",
             "domain":"loseit.com,",
             "deletemail":null
+         },
+         {
+            "name":"Lottoland",
+            "deleteurl":"https:\/\/www.lottoland.com\/global\/account\/profile",
+            "difficulty":"hard",
+            "description":"Click on the link, log in, select edit on the top right next to \"Account status\" and then select \"Close Account\". Note, this will only disable the account, as the support can reactivate it at any time. To fully delete your account and personal data contact the data protection officer via email.",
+            "domain":"lottoland.com,lottoland.de,lottoland.at,lottoland.co.uk,lottoland.eu,lottoland.ie,lotoland.com,lottoland.se,lottoland.mx,lottoland.co.za,lottoland.asia,lottoland.it,lottoland.gi,",
+            "deletemail":"dpo@lottoland.com"
          },
          {
             "name":"Lucidchart\/Lucidpress",
