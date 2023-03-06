@@ -6230,7 +6230,7 @@
          },
          {
             "name":"Alternativeto.net",
-            "deleteurl":"https:\/\/alternativeto.net\/UserEdit.aspx",
+            "deleteurl":"https://alternativeto.net/user/edit/",
             "difficulty":"easy",
             "description":"Scroll to the bottom of the page, then click on \"Remove my account\".",
             "domain":"alternativeto.net",
