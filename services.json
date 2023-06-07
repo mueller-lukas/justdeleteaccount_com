@@ -323,7 +323,7 @@
             "name":"Atlassian",
             "deleteurl":"https:\/\/id.atlassian.com\/manage\/close-account",
             "difficulty":"easy",
-            "description":"Go to https://id.atlassian.com/manage-profile/account-preferences and press 'Delete Account' and follow the instruction.",
+            "description":"Go to https://id.atlassian.com/manage-profile/account-preferences and press 'Delete Account' and follow the instruction. If you have trouble to cancel (free or paid) subscription, then you may send a support ticket by https://support.atlassian.com/",
             "domain":"atlassian.com,",
             "deletemail":null
          },
