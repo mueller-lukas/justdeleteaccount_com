@@ -323,7 +323,7 @@
             "name":"Atlassian",
             "deleteurl":"https:\/\/id.atlassian.com\/manage\/close-account",
             "difficulty":"easy",
-            "description":null,
+            "description":"Go to https://id.atlassian.com/manage-profile/account-preferences and press 'Delete Account' and follow the instruction.",
             "domain":"atlassian.com,",
             "deletemail":null
          },
