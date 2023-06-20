@@ -1,5 +1,5 @@
 # JustDeleteAccount.com
-In this GitHub Project you can contribute to the Website https://www.justdeleteaccount.com/ aswell as to the API data of JustDeleteAccount.com
+In this GitHub repo you can contribute to the website https://www.justdeleteaccount.com/ aswell as to the API data of JustDeleteAccount.com
 
 # What is JustDeleteAccount.com?
 JustDeleteAccount.com is a directory of links where you can delete your account from web services.
@@ -11,17 +11,18 @@ New data breaches become known every day. Therefore you should delete unused acc
 In the file services.json you can find the data that is used by justdeleteaccount.com.
 There you can update and add entries.
 
-The structure of every entry is as following:
+# Template
+The structure of every entry is as following:<br>
 The file is in the JSON format.
 
 ```json
          {
-            "name":"SomeServiceName",
-            "deleteurl":"https://somewebsite.com/profile/account",
-            "deletemail":"support@somewebsite.com",
+            "name":"ExampleService",
+            "deleteurl":"https://exampleservice.com/account/deletion",
+            "deletemail":"remove@exampleservice.com",
             "difficulty":"easy",
             "description":"Go to 'Profile > Delete My Account' and select why you are deleting your account.",
-            "domain":"somewebsite.com,domain2.com"
+            "domain":"exampleservice.com,exampleservice.us"
          },
 ```
 **Difficulty:**  
