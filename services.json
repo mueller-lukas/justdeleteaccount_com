@@ -368,6 +368,14 @@
             "deletemail":null
          },
          {
+            "name":"Avid",
+            "deleteurl":"https:\/\/privacyportal.onetrust.com\/webform\/d132a048-bd33-48e8-a71a-96323f6aa7c9\/ae30004b-8cc0-4b02-b561-ba4b27d0b8ff",
+            "difficulty":"medium",
+            "description":"Fill out the Privacy Web Form and ask for either MyAvid Account Deletion or Data Erasure based on what you want.",
+            "domain":"avid.com,",
+            "deletemail":null
+         },
+         {
             "name":"Avira",
             "deleteurl":"https:\/\/support.avira.com\/hc\/en-us\/articles\/360000753557--How-can-I-delete-my-Avira-account",
             "difficulty":"easy",
@@ -398,6 +406,14 @@
             "difficulty":"medium",
             "description":"Click on delete account and follow the required steps. You must have no outstanding B2 balance and will have to delete most files and settings in your account first.",
             "domain":"backblaze.com,",
+            "deletemail":null
+         },
+         {
+            "name":"Backloggery",
+            "deleteurl":"https:\/\/backloggery.com\/contact.php",
+            "difficulty":"hard",
+            "description":"Select 'Account Deletion' in the subject of the contact form.",
+            "domain":"backloggery.com,",
             "deletemail":null
          },
          {
@@ -922,6 +938,14 @@
             "difficulty":"hard",
             "description":"You have to ask the support to get your account deleted. Choose the category CNET Registration",
             "domain":"cnet.com,",
+            "deletemail":null
+         },
+         {
+            "name":"Cocalc",
+            "deleteurl":"https:\/\/cocalc.com\/config\/account\/name",
+            "difficulty":"easy",
+            "description":"Click on 'Account', then 'Delete Account'",
+            "domain":"cocalc.com,",
             "deletemail":null
          },
          {
@@ -2533,6 +2557,14 @@
             "deletemail":null
          },
          {
+            "name":"Hotels.com",
+            "deleteurl":"https:\/\/www.hotels.com\/user\/delete",
+            "difficulty":"easy",
+            "description":"Click on your name, 'Your Account', 'Update your account settings', then 'Delete this account here'.",
+            "domain":"hotels.com,",
+            "deletemail":null
+         },
+         {
             "name":"Hotmail",
             "deleteurl":"https:\/\/account.live.com\/CloseAccount.aspx",
             "difficulty":"easy",
@@ -2845,6 +2877,14 @@
             "deletemail":"support@jsfiddle.net"
          },
          {
+            "name":"Just Eat",
+            "deleteurl":"https:\/\/www.just-eat.co.uk\/account\/info",
+            "difficulty":"easy",
+            "description":"Click on your name, 'Your Account', then 'Delete my account'",
+            "domain":"just-eat.co.uk,",
+            "deletemail":null
+         },
+         {
             "name":"Keepa",
             "deleteurl":"https:\/\/keepa.com",
             "difficulty":"easy",
@@ -3085,6 +3125,14 @@
             "deletemail":null
          },
          {
+            "name":"LogMeIn",
+            "deleteurl":"https://support.logmeininc.com\/hamachi\/contact",
+            "difficulty":"hard",
+            "description":"Contact customer support and create a ticket",
+            "domain":"logmein.com,logmeininc.com,goto.com",
+            "deletemail":null
+         },
+         {
             "name":"Lolja",
             "deleteurl":"https:\/\/lolja.com.br",
             "difficulty":"hard",
@@ -3240,7 +3288,7 @@
             "name":"Mastodon.social",
             "deleteurl":"https:\/\/mastodon.social\/settings\/delete",
             "difficulty":"easy",
-            "description":"Login -> Account Settings -> Security > Delete Account",
+            "description":"Login -> Account Settings -> Security > Delete Account. Note that this works for all Mastodon instances, not just the main one.",
             "domain":"mastodon.social,",
             "deletemail":null
          },
