@@ -918,9 +918,9 @@
          },
          {
             "name":"Cloudflare",
-            "deleteurl":"https:\/\/support.cloudflare.com\/requests\/new",
-            "difficulty":"hard",
-            "description":"Submit a support ticket using the \"Account\" category, and request account deletion in the message body. You must have no domains or credit cards attached to your account prior to requesting deletion.",
+            "deleteurl":"https://dash.cloudflare.com/profile",
+            "difficulty":"easy",
+            "description":"Log in to the Cloudflare dashboard -> Go to 'My Profile' -> scroll down to 'Delete this user'-Link",
             "domain":"cloudflare.com,",
             "deletemail":null
          },
