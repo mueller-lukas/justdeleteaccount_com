@@ -918,7 +918,7 @@
          },
          {
             "name":"Cloudflare",
-            "deleteurl":"https://dash.cloudflare.com/profile",
+            "deleteurl":"https:\/\/dash.cloudflare.com\/profile",
             "difficulty":"easy",
             "description":"Log in to the Cloudflare dashboard -> Go to 'My Profile' -> scroll down to 'Delete this user'-Link",
             "domain":"cloudflare.com,",
