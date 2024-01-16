@@ -4189,6 +4189,14 @@
             "deletemail":"human@paperkarma.com"
          },
          {
+            "name":"Paradox Interactive",
+            "deleteurl": "https://support.paradoxplaza.com/hc/en-us/requests/new",
+            "difficulty":"hard",
+            "description":"Go to support.paradoxplaza.com and create a ticket. In the first dropdown, select 'GDPR - Request for Account Deletion",
+            "domain":"paradoxinteractive.com,paradoxplaza.com,",
+            "deletemail": null
+         },
+         {
             "name":"Parcello",
             "deleteurl":"https:\/\/www.parcello.org\/settings",
             "difficulty":"easy",
