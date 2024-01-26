@@ -7,6 +7,15 @@ JustDeleteAccount.com is a directory of links where you can delete your account 
 # Why should I delete my old accounts?
 New data breaches become known every day. Therefore you should delete unused accounts and protect your privacy.
 
+# ToDo List:
+[x] Transfer repo to my new GitHub Account
+[ ] GitHub Action for JSON-Validation 
+[ ] Rework of the JUstDeleteAccount.com website
+[ ] Finish the JustDeleteAccount.com API
+[ ] Open-Source release of the website code
+[ ] Chrome Plugin
+[ ] Firefox Plugin
+
 # How can I contribute?
 In the file services.json you can find the data that is used by justdeleteaccount.com.
 There you can update and add entries.
