@@ -2774,9 +2774,9 @@
          },
          {
             "name":"itch.io",
-            "deleteurl":"https:\/\/itch.io\/support",
-            "difficulty":"hard",
-            "description":"You need to contact support via email to get your account deleted.",
+            "deleteurl":"https:\/\/itch.io\/user\/settings\/delete-account",
+            "difficulty":"easy",
+            "description":"Log into the account and go to Account Settings, then Delete Account. Follow the instructions.",
             "domain":"itch.io,",
             "deletemail":null
          },
