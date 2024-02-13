@@ -15,6 +15,7 @@
             "domain":"1password.com,",
             "deletemail":null
          },
+         
          {
             "name":"280daily",
             "deleteurl":"https:\/\/280daily.com\/settings\/delete",
@@ -2747,6 +2748,14 @@
             "description":"You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
             "domain":"kinja.com,",
             "deletemail":null
+         },
+         {
+            "name":"IoI Interactive",
+            "deleteurl":"https://account.ioi.dk/",
+            "difficulty":"easy",
+            "description":"Login to your account, go to 'Account Settings' and then click 'Delete Account'",
+            "domain":"ioi.dk,",
+            "deletemail": "legal@ioi.dk"
          },
          {
             "name":"IRCCloud",
