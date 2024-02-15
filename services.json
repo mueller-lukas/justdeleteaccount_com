@@ -2749,6 +2749,14 @@
             "deletemail":null
          },
          {
+            "name":"IoI Interactive",
+            "deleteurl":"https://account.ioi.dk/",
+            "difficulty":"easy",
+            "description":"Login to your account, go to 'Account Settings' and then click 'Delete Account'",
+            "domain":"ioi.dk,",
+            "deletemail": "legal@ioi.dk"
+         },
+         {
             "name":"IRCCloud",
             "deleteurl":"https:\/\/www.irccloud.com",
             "difficulty":"easy",
