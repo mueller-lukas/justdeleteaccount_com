@@ -1302,10 +1302,10 @@
          },
          {
             "name":"DHL (Paket.de)",
-            "deleteurl":"https:\/\/www.paket.de\/pkp\/appmanager\/pkp\/desktop?_nfpb=true&_nfxr=false&_pageLabel=pkp_portal_page_footer_cah_faqs",
-            "difficulty":"impossible",
-            "description":"There's no information about account-deletion in their FAQ. The hotline also says that account-deletion isn't possible.",
-            "domain":"paket.de,",
+            "deleteurl":"https://www.dhl.de/de/privatkunden/kundenkonto/meine-daten.html",
+            "difficulty":"easy",
+            "description":"Open the provided link, click on 'Kontosicherheit' and then on 'Kundenkonto löschen'",
+            "domain":"dhl.de, paket.de",
             "deletemail":null
          },
          {
