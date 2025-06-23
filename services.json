@@ -112,12 +112,28 @@
             "deletemail":null
          },
          {
+            "name":"AdGuard",
+            "deleteurl":"https:\/\/adguardaccount.com\/en\/account\/settings",
+            "deletemail":null,
+            "difficulty":"easy",
+            "description":"Scroll to the bottom of the Settings page and click on the 'Delete account'.",
+            "domain":"adguard.com,"
+         },
+         {
             "name":"Adobe",
             "deleteurl":"https:\/\/account.adobe.com\/privacy\/delete-account",
             "difficulty":"easy",
             "description":null,
             "domain":"adobe.com,",
             "deletemail":null
+         },
+         {
+            "name":"ChatGPT",
+            "deleteurl":"https:\/\/chatgpt.com\/#settings\/Account",
+            "deletemail":null,
+            "difficulty":"easy",
+            "description":"Next to 'Delete Account', click 'Delete'. Read the information about data deletion carefully, because you can't create a new account with the same email and phone number again.",
+            "domain":"chatgpt.com,"
          },
          {
             "name":"Airbnb",
@@ -1235,6 +1251,14 @@
             "description":"You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
             "domain":"kinja.com,",
             "deletemail":null
+         },
+         {
+            "name":"DeepSeek",
+            "deleteurl":"https:\/\/chat.deepseek.com",
+            "deletemail":null,
+            "difficulty":"easy",
+            "description":"Go to 'My Profile' (profile icon in the bottom left) > 'Settings' >  'Profile' > 'Delete Account'.",
+            "domain":"deepseek.com,"
          },
          {
             "name":"Deezer",
@@ -4298,6 +4322,14 @@
             "difficulty":"easy",
             "description":"Click on 'Konto löschen' and then on 'Mein Konto jetzt unwiederruflich löschen'",
             "domain":"perfect-shave.de,",
+            "deletemail":null
+         },
+         {
+            "name":"Perplexity",
+            "deleteurl":"https:\/\/www.perplexity.ai\/account\/details",
+            "difficulty":"easy",
+            "description":"On the bottom of the 'Account' page, click on the 'Learn more' next to 'Delete account'.",
+            "domain":"perplexity.ai,",
             "deletemail":null
          },
          {
