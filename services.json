@@ -2614,9 +2614,9 @@
          },
          {
             "name":"Humble Bundle",
-            "deleteurl":"https:\/\/www.humblebundle.com",
-            "difficulty":"impossible",
-            "description":"You must <a href=\"https:\/\/support.humblebundle.com\/hc\/en-us\/requests\/new\">contact Humble Bundle via their online contact form<\/a> to request account deletion and provide three or more transaction IDs from previous orders. They only deactivate your account though and state you can get back at any time.",
+            "deleteurl":"https:\/\/dsar.humblebundle.com",
+            "difficulty":"easy",
+            "description":"Go to the <a href=\"https:\/\/dsar.humblebundle.com\">Humble Bundle Privacy Portal<\/a> and select \"Delete My Information\". Enter your email address, Region and Country and then you will get a verification email to verify the request.",
             "domain":"humblebundle.com,",
             "deletemail":null
          },
